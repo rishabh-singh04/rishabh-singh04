@@ -1,76 +1,87 @@
-<h2 align="center">👋 Hey there, I'm Rishabh Kumar Singh</h2>
+<h1 align="center">Rishabh Kumar Singh</h1>
 
 <p align="center">
-  🚀 Software Engineer • 🧠 AI/ML Enthusiast • 🔧 Backend Developer<br>
-  💡 Passionate about solving real-world problems through scalable and intelligent systems
+  <b>Backend Engineer · AI / LLM Engineer · Enterprise Search Systems</b>
+</p>
+
+<p align="center">
+  Designing and operating <b>production-grade backend platforms</b> and <b>scalable AI-driven systems</b>
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=760&lines=Enterprise+Search+and+Relevance+Systems;Production-Ready+LLM+Services;Scalable+Async+Backend+APIs;High-Throughput+Inference+and+Optimization"
+    alt="Areas of Focus"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/rishabh-singh04">
+    <img src="https://img.shields.io/github/followers/rishabh-singh04?label=GitHub&style=flat" alt="GitHub followers" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/rishabhsingh0">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn profile" />
+  </a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧠 About
+Backend-focused engineer specializing in **Data Science**, with hands-on experience in **LLMs, enterprise search, and scalable AI systems**.  
+I prioritize **production reliability, performance efficiency, and principled system design** over experimental demonstrations.
 
-I'm a **backend-focused software engineer** passionate about building **scalable** and **intelligent systems**.
+### Core Contributions
+- Designed and maintained **production-grade LLM services** with optimized inference pipelines  
+- Built **Elasticsearch-based enterprise search systems**, focusing on relevance, filtering, and ranking  
+- Developed **high-throughput, asynchronous backend services** using **FastAPI**  
+- Deployed and operated **AI-backed services** on **AWS infrastructure**
+---
 
-- 💻 Strong foundation in **Python**, **C++**, and **system design principles**  
-- 🚀 I enjoy building projects that solve **real-world problems**, from deploying **ML and LLM-powered applications** to designing clean and efficient **REST/GraphQL APIs**  
-- 🛠️ Skilled in developing **containerized microservices** using **Docker** and following modern **DevOps** practices  
-- 📚 Actively learning and exploring advanced backend technologies to sharpen my craft  
+## 🎯 Core Work
+
+**Enterprise Search**
+- Query understanding & intent detection  
+- Retrieval, filtering, ranking  
+
+**LLM Systems**
+- Transformer classifiers (BERT)  
+- LoRA / QLoRA fine-tuning  
+- Quantized inference (8-bit / 16-bit)  
+- RAG pipelines  
+
+**Backend**
+- High-throughput FastAPI services  
+- Maintainable, async-first architectures  
 
 ---
 
-### 🌱 Currently Exploring
+## 🧩 Tech Stack
 
-- 🧩 **Distributed Systems** & Scalable Architectures  
-- ⚡ **FastAPI**, **GraphQL**, and **Kubernetes**  
-- 🧠 Applying **ML/LLMs** in backend workflows  
-- ☁️ **Cloud Deployments** – AWS & GCP (fundamentals)
+<p align="center">
+  <img src="https://skillicons.dev/icons?theme=dark&i=python,cpp,c,js,fastapi,flask,nodejs,postgres,mongodb,redis,elasticsearch,graphql,docker,aws,linux,pytorch,git,github,pytest" />
+</p>
 
----
-
-### ### 🔧 Tech Stack
-
-#### 💻 Languages
-<span style="color:#F7DF1E">⚡</span> **Python**, **C++**, **C**, **JavaScript**, **SQL**
-
-#### 🚀 Backend & API Development
-- **FastAPI**, **Flask**, **Node.js (basic)**
-- **PostgreSQL**, **MongoDB**, **Redis**
-- **RESTful APIs**, **GraphQL**, **Swagger**, **Postman**
-
-#### 🔍 Machine Learning & AI
-- **PyTorch**, **OpenCV**, **Pandas**, **Kubeflow**
-- **LLMs**, **Prompt Engineering**, **Whisper**, **RAG Pipelines**
-
-#### 📦 DevOps & Tools
-- **Docker**, **AWS (EC2, S3, Lambda)**  
-- **Git**, **GitHub**, **CI/CD (basic)**  
-- **Pytest**, **Streamlit**
-
-#### 🌐 Frontend & UI
-- **ReactJS**, **HTML/CSS (basic)**
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM-Fine--Tuning-blue?style=flat" />
+  <img src="https://img.shields.io/badge/LoRA-QLoRA-success?style=flat" />
+  <img src="https://img.shields.io/badge/Inference-vLLM-purple?style=flat" />
+  <img src="https://img.shields.io/badge/RAG-Production-red?style=flat" />
+  <img src="https://img.shields.io/badge/AWS-Bedrock-yellow?style=flat" />
+</p>
 
 ---
 
-### 📌 Featured Projects
-
-#### 🔍 [LLM-Based Content Moderation System](https://github.com/rishabh-singh04/HateSpeechDetection_System)  
-A FastAPI-powered solution using **Whisper** and **LLMs** to classify and moderate text/audio content, reducing manual effort by 40%.
-
-#### 🛡️ [PPE Violation Detection](https://github.com/rishabh-singh04/PPE-VIOLATION-DETECTION)  
-Real-time CV-based safety monitoring tool leveraging **PyTorch** and **Kubeflow** to detect helmet and jacket violations in workplaces.
-
-#### 💬 [Real-Time Discussion Forum](https://github.com/rishabh-singh04)  
-Live forum platform using **GraphQL**, **Redis Pub/Sub**, and a **Dockerized** backend. Features include scalable APIs, real-time chat, and topic management.
+## 🌱 Currently Exploring
+- Distributed systems & scalability trade-offs  
+- Learning-to-Rank (LTR) for search  
+- High-throughput LLM inference  
 
 ---
 
-### 🌐 Let's Connect
+## 🌐 Connect
+📧 <a href="mailto:rishabh.singh11219@gmail.com">Email</a> ·  
+💼 <a href="https://linkedin.com/in/rishabhsingh0">LinkedIn</a> ·  
+🧑‍💻 <a href="https://github.com/rishabh-singh04">GitHub</a>
 
-- 📧 **Email**: [rishabh.singh11219@gmail.com](mailto:rishabh.singh11219@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/rishabhsingh0](https://linkedin.com/in/rishabhsingh0)  
-- 🧑‍💻 **GitHub**: [github.com/rishabh-singh04](https://github.com/rishabh-singh04)
-
----
-
-> 💬 *“Always building, always learning.”*  
-> Feel free to reach out — I’m always open to collaboration and learning opportunities!
+<p align="center"><i>Build systems. Ship models. Optimize relentlessly.</i></p>
