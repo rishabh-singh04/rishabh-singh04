@@ -1,87 +1,115 @@
-<h1 align="center">Rishabh Kumar Singh</h1>
+<h1 align="center">Rishabh Singh</h1>
 
 <p align="center">
-  <b>Backend Engineer · AI / LLM Engineer · Enterprise Search Systems</b>
+  <b>AI Engineer · Backend Systems · LLM Infrastructure</b>
 </p>
 
 <p align="center">
-  Designing and operating <b>production-grade backend platforms</b> and <b>scalable AI-driven systems</b>
+  Building reliable backend platforms and scalable AI systems
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=760&lines=Enterprise+Search+and+Relevance+Systems;Production-Ready+LLM+Services;Scalable+Async+Backend+APIs;High-Throughput+Inference+and+Optimization"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=760&lines=Building+Things+with+AI;Backend+Systems;Search+%26+Data;Scaling+Ideas+to+Systems"
     alt="Areas of Focus"
   />
 </p>
 
 <p align="center">
   <a href="https://github.com/rishabh-singh04">
-    <img src="https://img.shields.io/github/followers/rishabh-singh04?label=GitHub&style=flat" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/rishabh-singh04?label=GitHub&style=flat" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/rishabhsingh0">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
 </p>
 
----
 
 ## 🧠 About
-Backend-focused engineer specializing in **Data Science**, with hands-on experience in **LLMs, enterprise search, and scalable AI systems**.  
-I prioritize **production reliability, performance efficiency, and principled system design** over experimental demonstrations.
 
-### Core Contributions
-- Designed and maintained **production-grade LLM services** with optimized inference pipelines  
-- Built **Elasticsearch-based enterprise search systems**, focusing on relevance, filtering, and ranking  
-- Developed **high-throughput, asynchronous backend services** using **FastAPI**  
-- Deployed and operated **AI-backed services** on **AWS infrastructure**
----
+AI engineer working on **search, retrieval, and LLM-powered backend systems**.
 
-## 🎯 Core Work
-
-**Enterprise Search**
-- Query understanding & intent detection  
-- Retrieval, filtering, ranking  
-
-**LLM Systems**
-- Transformer classifiers (BERT)  
-- LoRA / QLoRA fine-tuning  
-- Quantized inference (8-bit / 16-bit)  
-- RAG pipelines  
-
-**Backend**
-- High-throughput FastAPI services  
-- Maintainable, async-first architectures  
+- Build **end-to-end AI pipelines** — ingestion → retrieval → inference → serving  
+- Focus on **performance, reliability, and system scalability**  
+- Experience with **retrieval systems, model serving, and event-driven architectures**
 
 ---
+## ⚙️ Work Highlights
 
+- **Inference Systems** — vLLM, batching, KV caching, async APIs  
+- **Retrieval Pipelines** — hybrid search (BM25 + vector), reranking  
+- **Event-Driven Systems** — Kafka/RabbitMQ, scalable consumers  
+- **Search Systems** — semantic retrieval and relevance tuning  
+
+---
 ## 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?theme=dark&i=python,cpp,c,js,fastapi,flask,nodejs,postgres,mongodb,redis,elasticsearch,graphql,docker,aws,linux,pytorch,git,github,pytest" />
+  <img 
+    src="https://skillicons.dev/icons?theme=dark&i=python,cpp,c,js,fastapi,flask,nodejs,postgres,mysql,mongodb,redis,elasticsearch,kafka,rabbitmq,graphql,docker,aws,linux,pytorch,git,github,pytest" 
+    alt="Tech Stack Icons"
+  />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLM-Fine--Tuning-blue?style=flat" />
-  <img src="https://img.shields.io/badge/LoRA-QLoRA-success?style=flat" />
-  <img src="https://img.shields.io/badge/Inference-vLLM-purple?style=flat" />
-  <img src="https://img.shields.io/badge/RAG-Production-red?style=flat" />
-  <img src="https://img.shields.io/badge/AWS-Bedrock-yellow?style=flat" />
+  <img 
+    src="https://img.shields.io/badge/RAG-0A0A0A?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img 
+    src="https://img.shields.io/badge/Agentic%20AI-0A0A0A?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img 
+    src="https://img.shields.io/badge/NLP-0A0A0A?style=for-the-badge"/>
+  <img 
+    src="https://img.shields.io/badge/LLM%20Fine--tuning-0A0A0A?style=for-the-badge"/>
+  <img 
+    src="https://img.shields.io/badge/Prompt%20Engineering-0A0A0A?style=for-the-badge"/>
+  <img 
+    src="https://img.shields.io/badge/Semantic%20Search-0A0A0A?style=for-the-badge"/>
+  <img 
+    src="https://img.shields.io/badge/Transformers-0A0A0A?style=for-the-badge&logo=huggingface"/>
+  <img 
+    src="https://img.shields.io/badge/HuggingFace-0A0A0A?style=for-the-badge&logo=huggingface"/>
+  <img 
+    src="https://img.shields.io/badge/CrewAI-0A0A0A?style=for-the-badge"/>
+  <img 
+    src="https://img.shields.io/badge/Unsloth-0A0A0A?style=for-the-badge"/>
+  <img 
+    src="https://img.shields.io/badge/Langfuse-0A0A0A?style=for-the-badge"/>
+  <img 
+    src="https://img.shields.io/badge/FAISS-0A0A0A?style=for-the-badge"/>
+  <img 
+    src="https://img.shields.io/badge/vLLM-0A0A0A?style=for-the-badge"/>
+  <img 
+    src="https://img.shields.io/badge/Vector%20DB-0A0A0A?style=for-the-badge"/>
+  <img 
+    src="https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions"/>
+  <img 
+    src="https://img.shields.io/badge/Swagger-0A0A0A?style=for-the-badge&logo=swagger"/>
+  <img 
+    src="https://img.shields.io/badge/Label%20Studio-0A0A0A?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🌱 Currently Exploring
-- Distributed systems & scalability trade-offs  
-- Learning-to-Rank (LTR) for search  
-- High-throughput LLM inference  
+## 🌱 Current Focus
+
+- AI Infra & LLMOps  
+- High-throughput inference  
+- Advanced retrieval & reranking  
+- Agent workflows  
+- Evaluation & observability 
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect with me 
 📧 <a href="mailto:rishabh.singh11219@gmail.com">Email</a> ·  
 💼 <a href="https://linkedin.com/in/rishabhsingh0">LinkedIn</a> ·  
 🧑‍💻 <a href="https://github.com/rishabh-singh04">GitHub</a>
 
 <p align="center"><i>Build systems. Ship models. Optimize relentlessly.</i></p>
+
+## 📊 Activity Breakdown
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishabh-singh04&theme=github_dark" />
+</p>
